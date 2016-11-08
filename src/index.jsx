@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import 'bootstrap/dist/css/bootstrap-theme.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './design/scss/main.scss';
 import {Router, browserHistory} from "react-router";
 import {createStore, applyMiddleware} from "redux";
